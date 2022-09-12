@@ -22,5 +22,5 @@
 
 <a target="_blank" href="https://www.linkedin.com/in/gustavo-bertolini-haas/"><img align="center" alt="linkedin" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"> LinkedIn </a>
 <a target="_blank" href="https://github.com/gustavohaas"><img align="center" alt="github" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/github/github-original.svg"> GitHub </a>
-<a target="_blank" href="https://gustavohaas.github.io/portfolio/"><img align="center" alt="portfolio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"> Portifólio </a>
+<a target="_blank" href="https://gustavohaas.github.io/portfolio/"><img align="center" alt="portfolio" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/chrome/chrome-original.svg"> Portfólio </a>
 
